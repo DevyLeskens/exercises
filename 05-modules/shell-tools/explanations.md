@@ -7,12 +7,12 @@ For example, the UNIX `cat` utility lets you print out
 the contents of files:
 
 ```bash
-$ cat file1 file2 file3
-contents of file1
+$ cat file1.txt file2.txt file3
+contents of file1.txt
 .
 .
 .
-contents of file2
+contents of file2.txt
 .
 .
 .

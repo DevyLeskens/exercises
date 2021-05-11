@@ -3,7 +3,7 @@
 Write a script `remove-comments.py` that removes comments from a given list of source files:
 
 ```bash
-$ python remove-comments.py file1.py file2.py file3.py ...
+$ python remove-comments.py file1.txt.py file2.txt.py file3.py ...
 ```
 
 A `#` denotes comments: everything that follows on the same line is considered comment.
