@@ -6,7 +6,7 @@ Write a *script* `hello-world.py` that, when run on the shell, prints `Hello wor
 Note how we asked for a *script*, not a function. A script is a file that contains code (in our case, Python code):
 
 ```python
-# say-bla.py
+# hello-world.py
 
 print('bla')
 ```
@@ -16,7 +16,7 @@ what the name of the file is.
 To run this script, enter the following command in a terminal (*not* a Python shell):
 
 ```bash
-$ python say-bla.py
+$ python hello-world.py
 bla
 ```
 
